@@ -79,11 +79,22 @@ Spain has consistently taken home the most awards in each category for the year 
 
 ### Final thoughts:
 
-This was a super fun dataset to explore, with some interesting findings! While Spain took the most awards home for 2021, 
-Parmigiano Reggiano was the most awarded cheese. With my previous experience, this isn't too surprising. Spanish cheeses, such as Manchego, is an incredibly popular cheese. Spain has the advantage of sharing a border with France, which allows them to have more biodiversity, and in turn, making more diverse cheeses.
+This was a super fun dataset to explore, with some interesting findings! 
+
+While Spain took the most awards home for 2021, 
+Parmigiano Reggiano was the most awarded cheese. 
+With my previous experience, this isn't too surprising. 
+Spanish cheeses, such as Manchego, is an incredibly popular cheese. 
+Spain has the advantage of sharing a border with France, which allows them to have more biodiversity, and in turn, making more diverse cheeses.
+
 France coming quite far behind both countries is what surprised me the most! France is notorious for all of their delicious different kinds of cheeses and making them extremely well, and with care.
 Seeing the United States fall short is par for the course, since U.S cheesemakers are a little late to the game, but there are some excellent cheeses to be considered! 
-These insights have important implications for cheese producers and consumers alike. For example, producers may wish to focus on developing products in highly awarded categories in order to increase their chances of success at future competitions. Meanwhile, consumers can use this information to inform their purchasing decisions and discover new and highly acclaimed cheese products.
 
-Of course, there are some limitations to our analysis, such as the fact that our data only covers a single year of the competition. Nonetheless, our findings offer valuable insights and suggest that further research into the cheese industry could be highly beneficial.
+
+These insights have important implications for cheese producers and consumers alike. 
+For example, producers may wish to focus on developing products in highly awarded categories in order to increase their chances of success at future competitions. 
+Meanwhile, consumers can use this information to inform their purchasing decisions and discover new and highly acclaimed cheese products.
+
+Of course, there are some limitations to our analysis, such as the fact that our data only covers a single year of the competition. 
+Nonetheless, our findings offer valuable insights and suggest that further research into the cheese industry could be highly beneficial, such as expanding exposure to different kinds of cheeses from Europe and the U.S. to gain more recognition!
 
