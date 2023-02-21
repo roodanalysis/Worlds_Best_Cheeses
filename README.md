@@ -13,6 +13,8 @@ The metadata (post mild cleanup/organization): 🧹
 
 **Rating:** The rating of the cheese, lowest to highest: Bronze, Silver, Gold, and Super Gold. 
 
+**Rating #:** This wasn't in the original dataset, I took the liberty to add numerical values to the string Rating values to make our lives easier for analysis.
+
 **Category #:** The category number code for each type of cheese.
 
 **Category:** The type of cheese (e.g soft goats milk, semi-hard ewes, etc.) 
